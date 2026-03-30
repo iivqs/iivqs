@@ -31,19 +31,23 @@ I also build full-stack applications. Notable work includes an AI-powered job ap
 | Area | Tools & Technologies |
 |------|---------------------|
 | Penetration Testing | Burp Suite, Metasploit, Nmap, Wireshark |
-| Web Security | SQLi, Directory Traversal, XSS, OWASP Top 10 |
-| Network Security | SMB enumeration, traffic analysis, protocol analysis |
+| Web Security | SQLi, Directory Traversal, Brute Force, OWASP Top 10 |
+| Network Security | SMB enumeration, traffic analysis, PCAP analysis |
 | Active Directory | Kerberoasting, Pass-the-Hash, lateral movement (learning) |
 | Programming | Python, Django, JavaScript, Bash |
-| Platforms | Kali Linux, TryHackMe, PortSwigger Web Security Academy |
+| Platforms | Kali Linux, CTF Academy, PortSwigger Web Security Academy |
 
 ---
 
-## Featured Repos
+## Repos
 
-- [PortSwigger-Labs-Writeups](https://github.com/iivqs/PortSwigger-Labs-Writeups) — Step-by-step writeups for Web Security Academy labs
-- [SMB-ENUM-Automation](https://github.com/iivqs/SMB-ENUM-Automation) — Python tool for automated SMB vulnerability scanning using Metasploit
-- [Ethical-SQLi-Lab](https://github.com/iivqs/Ethical-SQLi-Lab) — Manual SQL injection lab with full Burp Suite methodology
+| Repo | What it is |
+|------|------------|
+| [PortSwigger-Labs-Writeups](https://github.com/iivqs/PortSwigger-Labs-Writeups) | Step-by-step writeups for Web Security Academy labs |
+| [Ethical-SQLi-Lab](https://github.com/iivqs/Ethical-SQLi-Lab) | Manual SQL injection via Burp Repeater — auth bypass walkthrough |
+| [Burp-Intruder-BruteForce-Lab](https://github.com/iivqs/Burp-Intruder-BruteForce-Lab) | Credential brute force with Burp Intruder — no lockout exploitation |
+| [SMB-ENUM-Automation](https://github.com/iivqs/SMB-ENUM-Automation) | Python tool for SMB scanning via Metasploit — version, shares, EternalBlue |
+| [CTF-Writeups](https://github.com/iivqs/CTF-Writeups) | CTF challenge writeups — network forensics, Wireshark PCAP analysis |
 
 ---
 
